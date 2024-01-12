@@ -1,0 +1,21 @@
+repository owner,repository name,repository url,repository stars
+bregman-arie,devops-exercises,https://github.com/bregman-arie/devops-exercises,60.4k
+ByteByteGoHq,system-design-101,https://github.com/ByteByteGoHq/system-design-101,51.4k
+localstack,localstack,https://github.com/localstack/localstack,50.8k
+serverless,serverless,https://github.com/serverless/serverless,45.7k
+donnemartin,data-science-ipython-notebooks,https://github.com/donnemartin/data-science-ipython-notebooks,26k
+sst,sst,https://github.com/sst/sst,18.9k
+pulumi,pulumi,https://github.com/pulumi/pulumi,18.7k
+kubernetes-sigs,kubespray,https://github.com/kubernetes-sigs/kubespray,14.9k
+aws,aws-cli,https://github.com/aws/aws-cli,14.6k
+getsops,sops,https://github.com/getsops/sops,14.5k
+ramitsurana,awesome-kubernetes,https://github.com/ramitsurana/awesome-kubernetes,14.5k
+donnemartin,awesome-aws,https://github.com/donnemartin/awesome-aws,11.9k
+caprover,caprover,https://github.com/caprover/caprover,11.6k
+GoogleCloudPlatform,terraformer,https://github.com/GoogleCloudPlatform/terraformer,11.2k
+aws,aws-cdk,https://github.com/aws/aws-cdk,10.9k
+apereo,cas,https://github.com/apereo/cas,10.5k
+aws,chalice,https://github.com/aws/chalice,10.1k
+infracost,infracost,https://github.com/infracost/infracost,9.9k
+aws-amplify,amplify-js,https://github.com/aws-amplify/amplify-js,9.3k
+google,go-cloud,https://github.com/google/go-cloud,9.3k
